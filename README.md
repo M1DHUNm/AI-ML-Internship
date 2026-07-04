@@ -45,5 +45,3 @@ Run all cells (Kernel → Restart & Run All).
 ## Key Tools Used
 - Python, Pandas, NumPy, Matplotlib
 
-## Author
-[Your Name Here]
